@@ -1,0 +1,35 @@
+{
+  "name": "zaifumo-cli",
+  "description": "A command line tools.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": {
+    "zaifumo": "./bin/zaifumo"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kecoyo <kecoyo@163.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/jeselvmo/zaifumo-cli",
+  "bugs": {
+    "url": "https://github.com/jeselvmo/zaifumo-cli/issues",
+    "email": "kecoyo@163.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeselvmo/zaifumo-cli.git"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.0",
+    "open": "^8.4.0",
+    "yargs": "^17.2.1",
+    "yargs-interactive": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0"
+  }
+}
