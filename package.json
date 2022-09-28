@@ -11,25 +11,37 @@
   },
   "author": "kecoyo <kecoyo@163.com>",
   "license": "MIT",
-  "homepage": "https://github.com/jeselvmo/zaifumo-cli",
+  "homepage": "https://github.com/kecoyo/zaifumo-cli",
   "bugs": {
-    "url": "https://github.com/jeselvmo/zaifumo-cli/issues",
+    "url": "https://github.com/kecoyo/zaifumo-cli/issues",
     "email": "kecoyo@163.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jeselvmo/zaifumo-cli.git"
+    "url": "git://github.com/kecoyo/zaifumo-cli.git"
   },
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^8.3.0",
+    "download": "^8.0.0",
     "download-git-repo": "^3.0.2",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.1.3",
+    "iconv-lite": "^0.6.3",
     "inquirer": "^8.2.0",
+    "lodash": "^4.17.21",
+    "mkdirp": "^1.0.4",
     "open": "^8.4.0",
+    "recursive-readdir": "^2.2.2",
     "yargs": "^17.2.1",
     "yargs-interactive": "^3.0.0"
   },
   "devDependencies": {
-    "eslint": "^8.2.0"
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0"
   }
 }

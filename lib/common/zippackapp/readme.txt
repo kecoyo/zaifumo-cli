@@ -1,0 +1,1 @@
+e:\zippackapp\ljpack.exe -zip ./build ./package
