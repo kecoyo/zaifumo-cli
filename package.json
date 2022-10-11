@@ -25,6 +25,7 @@
     "commander": "^8.3.0",
     "download": "^8.0.0",
     "download-git-repo": "^3.0.2",
+    "gitly": "^2.2.2",
     "gulp": "^4.0.2",
     "gulp-clean": "^0.4.0",
     "gulp-rename": "^2.0.0",
@@ -35,6 +36,7 @@
     "mkdirp": "^1.0.4",
     "open": "^8.4.0",
     "recursive-readdir": "^2.2.2",
+    "replace-in-file": "^6.3.5",
     "yargs": "^17.2.1",
     "yargs-interactive": "^3.0.0"
   },
