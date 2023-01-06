@@ -1,7 +1,7 @@
 {
   "name": "zaifumo-cli",
   "description": "A command line tools.",
-  "version": "1.0.0-bata.3",
+  "version": "1.0.0-bata.4",
   "bin": {
     "zaifumo": "./bin/zaifumo"
   },
